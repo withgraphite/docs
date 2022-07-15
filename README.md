@@ -28,7 +28,7 @@ With Graphite, you can:
     Graphite makes it easy to open PRs for all branches in your stack and update them as you iterate - and we'll even add a comment to help your reviewers easily navigate to the other PRs in the stack.
 *   **View and customize inboxes for your pull requests & reviews**
 
-    Graphite's web dashboard helps you get through code review faster and focus on what's actionable with a powerful, customizable review queue with spit inboxes (i.e. "Needs your review", "Your pull requests", "Your team's pull requests").
+    Graphite's web dashboard helps you get through code review faster and focus on what's actionable with a powerful, customizable review queue with split inboxes (i.e. "Needs your review", "Your pull requests", "Your team's pull requests").
 *   **Visualize stacks on the code review page**
 
     Graphite's web dashboard shows you a visualization of all the PRs in a stack at a glance, allowing you to better understand which PRs to review first as well as the subsequent ordering and narrative arc of the stack.
